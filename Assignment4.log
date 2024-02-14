@@ -1,0 +1,4 @@
+Transfer TR11 resulted in code 0: STX - Transfer Successful
+Transfer TR12 resulted in code 3: NSF - Insufficient Funds
+Transfer TR16 resulted in code 1: TNF - To Account not found
+Transfer TR20 resulted in code 2: FNF - From Account not found
